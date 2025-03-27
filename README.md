@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Born in 2006<br>📚 I'm currently learning code languages<br>🎲 Fun fact: Corinthians fan.</p>
+<p align="left">✨Born in 2006<br>📚 I'm currently learning code languages<br>🎲 Fun fact: Corinthians fan.</p>
 
 ###
 
