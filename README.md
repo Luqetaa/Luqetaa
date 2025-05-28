@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Lucas and I'm a Software Engineer, from São Paulo, Brazil.</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqetaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luqetaa)](https://github.com/Luqetaa/github-readme-stats)
 ###
 
 <h2 align="left">About me</h2>
